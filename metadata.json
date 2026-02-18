@@ -1,0 +1,7 @@
+{
+  "name": "BananaEdit - AI Image Studio",
+  "description": "A high-performance image editing suite powered by Gemini 2.5 Flash Image (Nano Banana), allowing users to transform images with simple text prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
